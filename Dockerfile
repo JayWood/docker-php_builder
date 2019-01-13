@@ -8,4 +8,5 @@ RUN apk add --update \
 		composer \
 		nodejs==8.14.0-r0 \
 		npm==8.14.0-r0 \
-		openssh-client
+		openssh-client \
+		bash
